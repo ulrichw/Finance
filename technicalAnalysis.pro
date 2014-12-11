@@ -3,7 +3,7 @@
 ; requires to have GNU Wget installed on your machine
 ; requires to have legend.pro routine (from the astrolib) installed
 ; program written to run on linux
-; the output is a postscript file analysis.ps
+; NB: the output is a postscript file analysis.ps
 
 PRO technicalAnalysis
 
