@@ -1,0 +1,3 @@
+Codes to analyze financial markets:
+technical analysis of stocks, event studies, etc...
+Most codes are written in Python, some are written with IDL (interactive data language).
